@@ -1,0 +1,155 @@
+{
+    "0B4306B9-769B-4910-BB59-F99F1BEB1DD8":{
+        "_TipoRelacion": "01",
+        "CfdiRelacionado": {
+            "_UUID": "E2655F4D-05CB-4F1C-A244-AD2778D4205E"
+        }
+    },
+    "244D5025-28FC-4FEC-80A3-FFFAF4A02604":{
+        
+        "_TipoRelacion": "04",
+        "CfdiRelacionado.0": {
+            "_UUID": "FB6420D5-B950-4498-A72D-B337FEEF6077"
+        },
+        "CfdiRelacionado.1": {
+            "_UUID": "6E8E10F5-F79D-4F0F-8E12-1B3383F90424"
+        }
+    
+    },
+    "1433BEA2-D356-448E-A860-267181261353":{
+        "_TipoRelacion": "07",
+        "CfdiRelacionado": {
+            "0": {
+                "_UUID": "8DBEC254-20DA-49BD-8731-40509F74CDF8"
+            },
+            "1": {
+                "_UUID": "94AB5055-F5CA-4588-B6EB-D826F91BED00"
+            },
+            "2": {
+                "_UUID": "CBA7778F-8969-47BB-A683-58D59F1C6A02"
+            },
+            "3": {
+                "_UUID": "191597A8-3D30-4CA2-93A1-894CC1354C67"
+            },
+            "4": {
+                "_UUID": "C4B007AB-156E-488F-A457-C841E6A6C6E9"
+            },
+            "5": {
+                "_UUID": "EE70D9B9-CC0E-4604-A4EA-A16B8F395B7C"
+            },
+            "6": {
+                "_UUID": "CD086CFB-ED58-4B97-9C78-DEDC418D2AC5"
+            }
+        }
+    },
+    "167CF933-C94F-4F26-947A-3FBBF7D0B63A":{
+        "_TipoRelacion": "01",
+        "CfdiRelacionado": {
+            "_UUID": "3AFDE537-2A8C-4E15-B038-542439BF695A"
+        }
+    },
+    "1687C16F-69FB-4EAF-812A-00D2FC1298F3":{
+        "_TipoRelacion": "01",
+        "CfdiRelacionado": {
+            "0": {
+                "_UUID": "34B3980C-B96C-4B1C-910B-457823A8D45A"
+            },
+            "1": {
+                "_UUID": "46E56ED0-5688-4FD0-9561-749196658F9D"
+            },
+            "2": {
+                "_UUID": "0245EAD1-8920-480A-AAA5-CC6F41990415"
+            },
+            "3": {
+                "_UUID": "730FD40C-CAB9-40E9-B80D-8CB9A42F5251"
+            },
+            "4": {
+                "_UUID": "C3D3E05E-3CD9-4268-90EC-CF05F9D95944"
+            },
+            "5": {
+                "_UUID": "64B17B6B-CE1B-4B5D-AF63-BFAC252E792B"
+            }
+        }
+    },
+    "0D9DFA2F-AC9A-4BBD-9EF2-4E7B8161702B":{
+        "_TipoRelacion": "07",
+        "CfdiRelacionado": {
+            "0": {
+                "_UUID": "3CA6E62E-F9A4-485B-BEE6-932290DE47DB"
+            },
+            "1": {
+                "_UUID": "445D787B-322B-4BC0-AE21-EB2A4051D5C0"
+            },
+            "2": {
+                "_UUID": "F060140B-3E44-45DB-8F23-410349F26539"
+            },
+            "3": {
+                "_UUID": "F35F3667-DE9D-4227-9309-9FB389660758"
+            },
+            "4": {
+                "_UUID": "C9F40F45-04EA-42F0-8F9F-5BEBE0D39602"
+            },
+            "5": {
+                "_UUID": "AC9305B5-450D-4A51-AC44-29DF5E1D4CF3"
+            },
+            "6": {
+                "_UUID": "29AB423A-59D3-47DF-A748-62C142CFE7D0"
+            },
+            "7": {
+                "_UUID": "18553629-C8C0-4BC3-973C-588B5F794C50"
+            },
+            "8": {
+                "_UUID": "91DC1B4C-1C81-44AA-9FBD-27FDFDB6C8B5"
+            },
+            "9": {
+                "_UUID": "4DF57EE7-4056-40D3-8E70-ECD246F9B5F0"
+            }
+        }
+    },
+    "C2EF59E9-5A4E-43A5-A065-A49FC491979D":	{
+        "0": {
+            "_TipoRelacion": "07",
+            "CfdiRelacionado": {
+                "_UUID": "66A74B46-99F4-49F3-BDF5-68FBD65D24EE"
+            }
+        },
+        "1": {
+            "_TipoRelacion": "07",
+            "CfdiRelacionado.0": {
+                "_UUID": "EE8A9F0F-E8F8-40D7-BEF4-67159CC65307"
+            },
+            "CfdiRelacionado.1": {
+                "_UUID": "XX8A9F0F-E8F8-40D7-BEF4-67159CC65307"
+            }
+        },
+        "2": {
+            "_TipoRelacion": "07",
+            "CfdiRelacionado": {
+                "_UUID": "526D37CC-4900-4B6D-9910-49EF0E2B48DE"
+            }
+        },
+        "3": {
+            "_TipoRelacion": "07",
+            "CfdiRelacionado": {
+                "_UUID": "3A10A93F-0562-47CD-9574-F5D85093FE21"
+            }
+        },
+        "4": {
+            "_TipoRelacion": "07",
+            "CfdiRelacionado": {
+                "_UUID": "9C7090EB-BA17-40C1-AEE6-86EB5959EE82"
+            }
+        },
+        "5": {
+            "_TipoRelacion": "01",
+            "CfdiRelacionado": {
+                "0": {
+                    "_UUID": "EE70D9B9-CC0E-4604-A4EA-A16B8F395B7C"
+                },
+                "1": {
+                    "_UUID": "CD086CFB-ED58-4B97-9C78-DEDC418D2AC5"
+                }
+            }
+        }
+    }
+}
